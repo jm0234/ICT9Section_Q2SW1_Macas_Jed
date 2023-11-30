@@ -10,6 +10,11 @@ h1 {
    background-color: orangered;
    color: whitesmoke;
    font-style:italic;
+}
 
+<div>
+  <img src="kgfish.jpg" alt="kg" style="float:left;width:100px;height:100px;">
+  <p> grilled fish.</p>
+</div>
 
 
